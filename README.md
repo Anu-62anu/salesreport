@@ -1,4 +1,5 @@
 Sales Data Analysis and Visualization
+
 This project involves the processing and analysis of sales data to gain actionable insights and enhance business strategy.
 
 Data Storage: Uploaded raw sales data into MySQL for centralized storage, ensuring consistency and accessibility for further analysis.
